@@ -10,7 +10,7 @@
 #define KEY_WINDOW_SLOTS 3
 
 #ifndef MASTER_SEED
-#define MASTER_SEED "Key"
+#define MASTER_SEED "Random_Key" // Change here
 #endif
 
 /**
